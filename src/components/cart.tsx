@@ -1,4 +1,3 @@
-// CartModal.tsx
 import React, { createContext, useContext, useState } from "react";
 import { useCart } from "./cart-context";
 
